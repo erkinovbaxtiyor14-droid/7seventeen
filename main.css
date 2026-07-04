@@ -409,3 +409,7 @@ section {
         font-size: 4.5rem;
     }
 }
+/* Menyu qismidagi narxlarni yashirish */
+.menu .box .price {
+    display: none;
+}
